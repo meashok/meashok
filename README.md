@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashok Kumar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Ashok Yadav</h1>
 <h3 align="center">Computer Science Graduate with major in Big data Analytics | Distributed Computing & Product Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meashok&label=Profile%20views&color=0e75b6&style=flat" alt="meashok" /> </p>
